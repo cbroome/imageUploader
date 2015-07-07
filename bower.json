@@ -1,0 +1,27 @@
+{
+  "name": "imageUploader",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cbroome/imageUploader",
+  "authors": [
+    "Chris Broome <chris.a.broome@gmail.com>"
+  ],
+  "description": "jQuery image uploader",
+  "keywords": [
+    "jQuery",
+    "image",
+    "upload",
+    "crop"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "jqueryui": "~1.11.4"
+  }
+}
